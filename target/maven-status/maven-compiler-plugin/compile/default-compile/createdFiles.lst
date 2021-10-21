@@ -1,0 +1,7 @@
+com\sabitov\servlets\SignUpServlet.class
+com\sabitov\dto\SignUpForm$SignUpFormBuilder.class
+com\sabitov\dto\SignUpForm.class
+com\sabitov\config\ApplicationConfig.class
+com\sabitov\models\UserAccount.class
+com\sabitov\dto\SignUpServiceImpl.class
+com\sabitov\dto\SignUpService.class
